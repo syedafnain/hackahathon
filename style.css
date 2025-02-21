@@ -65,7 +65,7 @@ nav.scrolled {
 .hero {
     position: relative;
     height: 100vh;
-    background-image: url("../images/svcet12.jpg");
+    background-image: url("svcet12.jpg");
     background-size: cover;
     background-position: center;
     display: flex;
@@ -208,15 +208,15 @@ h2 {
 
 /* Add background images for each prize */
 #first-prize {
-    background-image: url('../images/first-prize.jpg'); /* Replace with correct path */
+    background-image: url('first-prize.jpg'); /* Replace with correct path */
 }
 
 #second-prize {
-    background-image: url('../images/second-prize.jpg');
+    background-image: url('second-prize.jpg');
 }
 
 #third-prize {
-    background-image: url('../images/third-prize.jpg');
+    background-image: url('third-prize.jpg');
 }
 
 /* Ensure text remains visible */
@@ -231,15 +231,15 @@ h2 {
 
 /* Set background images for each prize */
 .prize-card:nth-child(1) {
-    background-image: url('./images/first-prize.jpg'); /* Update the image path */
+    background-image: url('first-prize.jpg'); /* Update the image path */
 }
 
 .prize-card:nth-child(2) {
-    background-image: url('./images/second-prize.jpg');
+    background-image: url('second-prize.jpg');
 }
 
 .prize-card:nth-child(3) {
-    background-image: url('./images/third-prize.jpg');
+    background-image: url('third-prize.jpg');
 }
 
 .prize-amount {
@@ -497,15 +497,15 @@ footer{
 }
 
 .first-prize {
-    background-image: url("IMAGES/firstprize.jpg");
+    background-image: url("firstprize.jpg");
 }
 
 .second-prize {
-    background-image: url("IMAGES/second.jpg");
+    background-image: url("second.jpg");
 }
 
 .third-prize {
-    background-image: url("IMAGES/third.jpg");
+    background-image: url("third.jpg");
 }
 .prize-box {
     opacity: 0;
